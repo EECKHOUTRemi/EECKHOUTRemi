@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EECKHOUTRemi
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web or Android development
 - 📫 How to reach me : reeckhout@myges.fr.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been coding since 2021.
