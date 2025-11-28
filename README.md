@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @EECKHOUTRemi<br>👀 I’m interested in Web or Android development<br>📫 How to reach me : reeckhout@myges.fr.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I've been coding since 2021.<br>🎂 My age : 20 yo
+👋 Hi, I’m @EECKHOUTRemi<br>👀 I’m interested in Web or Android development<br>📫 How to reach me : remieeckhout9@gmail.com.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I've been coding since 2021.<br>🎂 My age : 21 yo
 
 
 ## 🌐 Socials:
