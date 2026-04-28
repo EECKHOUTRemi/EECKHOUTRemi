@@ -2,9 +2,9 @@
 👋 Hi, I’m @EECKHOUTRemi<br>👀 I’m interested in Web or Android development<br>📫 How to reach me : remieeckhout9@gmail.com.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I've been coding since 2021.<br>🎂 My age : 21 yo
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/main/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/main/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/output/github-contribution-grid-snake.svg">
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
