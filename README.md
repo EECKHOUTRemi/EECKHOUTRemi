@@ -1,6 +1,13 @@
 # 💫 About Me:
 👋 Hi, I’m @EECKHOUTRemi<br>👀 I’m interested in Web or Android development<br>📫 How to reach me : remieeckhout9@gmail.com.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I've been coding since 2021.<br>🎂 My age : 21 yo
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/remi-eeckhout) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23578286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:remieeckhout9@gmail.com) 
