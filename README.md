@@ -4,8 +4,8 @@
 📫 How to reach me : remieeckhout9@gmail.com.<br/>
 😄 Pronouns: he/him<br/>
 ⚡ Fun fact: I've been coding since 2021.<br/>
-🎂 My age : 21 yo
-💻 Currently working on : [MesApplisHF](https://github.com/EECKHOUTRemi/MesApplisHF)
+🎂 My age : 21 yo<br/>
+💻 Currently working on : [MesApplisHF](https://github.com/EECKHOUTRemi/MesApplisHF)<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/output/github-contribution-grid-snake-dark.svg">
