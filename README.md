@@ -6,6 +6,7 @@
 ⚡ Fun fact: I've been coding since 2021.<br/>
 🎂 My age : 21 yo<br/>
 💻 Currently working on : [MesApplisHF](https://github.com/EECKHOUTRemi/MesApplisHF)<br/>
+🔗 My links : https://amon.lol/eeckhoutremi
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eeckhoutremi/eeckhoutremi/output/github-contribution-grid-snake-dark.svg">
